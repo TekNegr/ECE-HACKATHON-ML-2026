@@ -7,7 +7,11 @@ authors = [
     { email = "Henintsoa RAMAKAVELO" }
 ]
 requires-python = ">=3.14"
-dependencies = []
+dependencies = [
+    "pandas>=3.1.0",
+    "pytest>=9.2.0",
+    "scikit-learn>=1.9.1",
+]
 
 [project.scripts]
 hackathon-ml = "hackathon_ml:main"
