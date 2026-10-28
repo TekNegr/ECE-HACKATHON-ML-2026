@@ -1,0 +1,30 @@
+2026-10-28 17:20:54 | INFO | LOGGING_CHECK: système opérationnel
+2026-10-28 17:21:12 | INFO | COMMANDE: prog_run
+2026-10-28 17:21:12 | INFO | TEST: début de la validation croisée (5 folds)
+2026-10-28 17:21:14 | INFO | TEST: fold 1/5 démarré (18182 entraînement, 4546 validation)
+2026-10-28 17:24:42 | INFO | TEST: fold 1/5 terminé | Macro-F1 = 0.5905
+2026-10-28 17:24:42 | INFO | TEST: fold 2/5 démarré (18182 entraînement, 4546 validation)
+2026-10-28 17:28:13 | INFO | TEST: fold 2/5 terminé | Macro-F1 = 0.5865
+2026-10-28 17:28:13 | INFO | TEST: fold 3/5 démarré (18182 entraînement, 4546 validation)
+2026-10-28 17:31:35 | INFO | TEST: fold 3/5 terminé | Macro-F1 = 0.5882
+2026-10-28 17:31:35 | INFO | TEST: fold 4/5 démarré (18183 entraînement, 4545 validation)
+2026-10-28 17:35:05 | INFO | TEST: fold 4/5 terminé | Macro-F1 = 0.5861
+2026-10-28 17:35:05 | INFO | TEST: fold 5/5 démarré (18183 entraînement, 4545 validation)
+2026-10-28 17:37:39 | INFO | COMMANDE: prog_run
+2026-10-28 17:37:39 | INFO | TEST: début de la validation croisée (5 folds)
+2026-10-28 17:37:41 | INFO | TEST: fold 1/5 démarré (18182 entraînement, 4546 validation)
+2026-10-28 17:41:30 | INFO | TEST: fold 1/5 terminé | Macro-F1 = 0.6011
+2026-10-28 17:41:30 | INFO | TEST: fold 2/5 démarré (18182 entraînement, 4546 validation)
+2026-10-28 17:45:14 | INFO | TEST: fold 2/5 terminé | Macro-F1 = 0.5924
+2026-10-28 17:45:14 | INFO | TEST: fold 3/5 démarré (18182 entraînement, 4546 validation)
+2026-10-28 17:48:50 | INFO | TEST: fold 3/5 terminé | Macro-F1 = 0.6014
+2026-10-28 17:48:50 | INFO | TEST: fold 4/5 démarré (18183 entraînement, 4545 validation)
+2026-10-28 17:52:33 | INFO | TEST: fold 4/5 terminé | Macro-F1 = 0.5970
+2026-10-28 17:52:33 | INFO | TEST: fold 5/5 démarré (18183 entraînement, 4545 validation)
+2026-10-28 17:56:19 | INFO | TEST: fold 5/5 terminé | Macro-F1 = 0.6070
+2026-10-28 17:56:20 | INFO | TEST: validation terminée | Macro-F1 global = 0.5998
+2026-10-28 17:56:20 | INFO | TEST: métriques sauvegardées dans /home/deathstar/Documents/temp_dev/HACKATHON_ML/artifacts/test_metrics.json
+2026-10-28 17:56:21 | WARNING | PROG_RUN: seuil non atteint | 0.5998 < 0.8000
+2026-10-28 18:05:02 | INFO | COMMANDE: prog_run
+2026-10-28 18:05:02 | INFO | TEST: début de la validation croisée (5 folds)
+2026-10-28 18:05:04 | INFO | TEST: fold 1/5 démarré (18182 entraînement, 4546 validation)

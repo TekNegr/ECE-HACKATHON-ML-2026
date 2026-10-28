@@ -1,0 +1,9 @@
+data/
+out/
+__pycache__/
+.ipynb_checkpoints/
+*.zip
+/train.csv
+/test.csv
+/sample_submission.csv
+/submission.csv

@@ -1,2 +1,10 @@
+from __future__ import annotations
+
+
 def main() -> None:
-    print("Hello from hackathon-ml!")
+	from hackathon_ml.cli import main as cli_main
+
+	cli_main()
+
+
+__all__ = ["main"]
